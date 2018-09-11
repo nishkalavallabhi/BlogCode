@@ -1,4 +1,4 @@
-# Some arbitrarily updated experiments related tied with my blog posts:  
+# Some arbitrarily updated code and experiments tied with my blog posts:  
 
 Posts on NER:
 https://nishkalavallabhi.github.io/NER1/  
